@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moro/static/css/main.e6513c95.chunk.css",
+    "main.js": "/moro/static/js/main.bd01caa8.chunk.js",
+    "main.js.map": "/moro/static/js/main.bd01caa8.chunk.js.map",
+    "runtime-main.js": "/moro/static/js/runtime-main.57b7c949.js",
+    "runtime-main.js.map": "/moro/static/js/runtime-main.57b7c949.js.map",
+    "static/js/2.37bb24bb.chunk.js": "/moro/static/js/2.37bb24bb.chunk.js",
+    "static/js/2.37bb24bb.chunk.js.map": "/moro/static/js/2.37bb24bb.chunk.js.map",
+    "static/js/3.1e7a6fb3.chunk.js": "/moro/static/js/3.1e7a6fb3.chunk.js",
+    "static/js/3.1e7a6fb3.chunk.js.map": "/moro/static/js/3.1e7a6fb3.chunk.js.map",
+    "index.html": "/moro/index.html",
+    "static/css/main.e6513c95.chunk.css.map": "/moro/static/css/main.e6513c95.chunk.css.map",
+    "static/js/2.37bb24bb.chunk.js.LICENSE.txt": "/moro/static/js/2.37bb24bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57b7c949.js",
+    "static/js/2.37bb24bb.chunk.js",
+    "static/css/main.e6513c95.chunk.css",
+    "static/js/main.bd01caa8.chunk.js"
+  ]
+}
